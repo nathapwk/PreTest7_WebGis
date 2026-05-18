@@ -1,0 +1,1 @@
+var json_Snappedlines_2 = {"type":"FeatureCollection","name":"Snappedlines_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
